@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-17518"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-4479"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-8888"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-8889"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-12615"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_eyebrow256_logs\\model.ckpt-17518"

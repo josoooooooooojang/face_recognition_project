@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-12973"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-0"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-3787"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-3788"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-8139"
+all_model_checkpoint_paths: "C:/tmp/train_inception_v1_mouse256_logs\\model.ckpt-12973"
